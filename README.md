@@ -10,6 +10,8 @@ h1 {
     margin-left: 40px;
 } 
 </style>
+<h1>This is a heading</h1>
+<p>This is a paragraph.</p>
   <meta charset="UTF-8">
   <meta name="description" content="Free Web tutorials">
   <meta name="keywords" content="HTML,CSS,XML,JavaScript">
@@ -18,7 +20,7 @@ h1 {
 </head>
 <body>
 
-<p></p>
+<p>This is a paragraph.</p>
 
 </body>
 </html>
