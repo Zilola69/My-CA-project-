@@ -1,6 +1,15 @@
 <!DOCTYPE html>
 <html>
 <head>
+<style>
+body {
+    background-color: linen;
+}
+h1 {
+    color: maroon;
+    margin-left: 40px;
+} 
+</style>
   <meta charset="UTF-8">
   <meta name="description" content="Free Web tutorials">
   <meta name="keywords" content="HTML,CSS,XML,JavaScript">
@@ -9,7 +18,7 @@
 </head>
 <body>
 
-<p>All meta information goes in the head section...</p>
+<p></p>
 
 </body>
 </html>
